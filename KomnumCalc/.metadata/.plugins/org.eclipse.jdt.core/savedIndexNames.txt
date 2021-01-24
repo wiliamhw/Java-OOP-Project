@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\Coding\Semester_3\KomnumCalc\.metadata\.plugins\org.eclipse.jdt.core
+2086368014.index
+3298009132.index
